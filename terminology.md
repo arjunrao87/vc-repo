@@ -1,0 +1,22 @@
+# Terminology
+
+- Angel investor
+- VC investor
+- burn rates
+- seed rounds or seed stage
+- first round, second round funding
+- series A, series B, series C
+- dilution
+- equity stake
+- equity - http://www.investopedia.com/terms/e/equity.asp
+- private equity
+- valuations
+- Operating Margin
+- Annual revenue growth
+- EBIDTA
+- break even
+- revenue multiples and growth - http://avc.com/2014/12/revenue-multiples-and-growth/
+- Financial statement analysis ( profitability ratio, activity ratio, liquidity ratio, leverage ratios)
+- Debt to equity ratio
+- Raising debt
+- Leverage and Margin - http://www.investopedia.com/terms/l/leverage.asp
