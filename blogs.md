@@ -27,3 +27,4 @@
 - https://hackernoon.com/venture-capital/home
 - https://medium.com/@eriktorenberg_/how-will-software-eat-venture-capital-f45e597ca152
 – http://www.thetwentyminutevc.com/samirkaji2
+- https://medium.com/startup-grind/tagged/venture-capital
